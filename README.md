@@ -7,4 +7,4 @@ Install the ucimlrepo package before running locally:
 
 Project description and code is in u.s.-congress-1984.ipynb
 
-<img src=https://github.com/alexbaratian/u.s.-congress-party-affiliation/assets/112292421/20a4b5ba-af82-4c7c-9b95-1ca9e82db70c alt="drawing" width="200"/>
+<img src=https://github.com/alexbaratian/u.s.-congress-party-affiliation/assets/112292421/5abef6a7-bc5b-4de6-94ff-101ff3ca7c80 alt="drawing" width="200"/>
